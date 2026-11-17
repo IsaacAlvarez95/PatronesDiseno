@@ -1,0 +1,154 @@
+--------------------------CORRIDA 1--------------------------
+Nombre del héroe: Omar
+Elige clase: 1. Guerrero | 2. Mago | 3. Arquero | 4. Pícaro
+4
+
+Equipar objeto (Max 3):1. Espada |2. Armadura |3. Veneno |4. Amuleto de Regeneración |5. Bendición |0. Terminar
+4
+
+Equipar objeto (Max 3):1. Espada |2. Armadura |3. Veneno |5. Bendición |0. Terminar
+0
+
+Héroe: Omar (base) + Amuleto Regeneración
+ATK: 25 | DEF: 15 | VEL: 20 | HP: 90
+
+Elige enemigo: 1. Goblin | 2. Orco
+1
+Enemigo: Goblin | HP: 50
+
+=== COMBATE INICIADO ===
+
+--- TURNO 1 ---
+Omar (base) + Amuleto Regeneración usa AtaquePuñalada sobre Goblin
+  Daño: 24 | Efecto: Puñalada (+5 HP regenerados)
+  Goblin HP: 50 -> 26
+Goblin (base) usa AtaqueFlecha sobre Omar
+  Daño: 13 | Efecto: Disparo
+  Omar HP: 95 -> 82
+
+--- TURNO 2 ---
+Omar (base) + Amuleto Regeneración usa AtaquePuñalada sobre Goblin
+  Daño: 36 (¡CRÍTICO!) | Efecto: Puñalada (+5 HP regenerados)
+  Goblin HP: 36 -> 0
+
+=== COMBATE FINALIZADO ===
+Ganador: Omar (base) + Amuleto Regeneración (HP restante: 87)
+--------------------------CORRIDA 2--------------------------
+Nombre del héroe: Gustavo
+Elige clase: 1. Guerrero | 2. Mago | 3. Arquero | 4. Pícaro
+2
+
+Equipar objeto (Max 3):1. Espada |2. Armadura |3. Veneno |4. Amuleto de Regeneración |5. Bendición |0. Terminar
+5
+
+Equipar objeto (Max 3):1. Espada |2. Armadura |3. Veneno |4. Amuleto de Regeneración |0. Terminar
+0
+
+Héroe: Gustavo (base) + Bendición
+ATK: 22 | DEF: 11 | VEL: 22 | HP: 100
+
+Elige enemigo: 1. Goblin | 2. Orco
+2
+Enemigo: Orco | HP: 240
+
+=== COMBATE INICIADO ===
+
+--- TURNO 1 ---
+Gustavo (base) + Bendición usa AtaqueHechizo sobre Orco
+  Daño: 15 | Efecto: Hechizo
+  Orco HP: 240 -> 225
+Orco (base) usa AtaqueEspada sobre Gustavo
+  Daño: 28 | Efecto: Corte
+  Gustavo HP: 100 -> 72
+
+--- TURNO 2 ---
+Gustavo (base) + Bendición usa AtaqueHechizo sobre Orco
+  Daño: 15 | Efecto: Hechizo
+  Orco HP: 225 -> 210
+Orco (base) usa AtaqueEspada sobre Gustavo
+  Daño: 28 | Efecto: Corte
+  Gustavo HP: 72 -> 44
+
+--- TURNO 3 ---
+Gustavo (base) + Bendición usa AtaqueHechizo sobre Orco
+  Daño: 15 | Efecto: Hechizo
+  Orco HP: 210 -> 195
+Orco (base) usa AtaqueEspada sobre Gustavo
+  Daño: 28 | Efecto: Corte
+  Gustavo HP: 44 -> 16
+
+--- TURNO 4 ---
+Gustavo (base) + Bendición usa AtaqueHechizo sobre Orco
+  Daño: 15 | Efecto: Hechizo
+  Orco HP: 195 -> 180
+Orco (base) usa AtaqueEspada sobre Gustavo
+  Daño: 42 (¡CRÍTICO!) | Efecto: Corte
+  Gustavo HP: 42 -> 0
+
+=== COMBATE FINALIZADO ===
+Ganador: Orco (HP restante: 180)
+--------------------------CORRIDA 3--------------------------
+Nombre del héroe: Dante
+Elige clase: 1. Guerrero | 2. Mago | 3. Arquero | 4. Pícaro
+1
+
+Equipar objeto (Max 3):1. Espada |2. Armadura |3. Veneno |4. Amuleto de Regeneración |5. Bendición |0. Terminar
+1
+
+Equipar objeto (Max 3):2. Armadura |3. Veneno |4. Amuleto de Regeneración |5. Bendición |0. Terminar
+3
+
+Equipar objeto (Max 3):2. Armadura |4. Amuleto de Regeneración |5. Bendición |0. Terminar
+5
+
+Héroe: Dante (base) + Espada + Veneno + Bendición
+ATK: 44 | DEF: 17 | VEL: 17 | HP: 120
+
+Elige enemigo: 1. Goblin | 2. Orco
+2
+Enemigo: Orco | HP: 240
+
+=== COMBATE INICIADO ===
+
+--- TURNO 1 ---
+Dante (base) + Espada + Veneno + Bendición usa AtaqueEspada sobre Orco
+  Daño: 27 | Efecto: Corte + Veneno
+  Orco HP: 240 -> 213
+Orco (base) usa AtaqueEspada sobre Dante
+  Daño: 39 (¡CRÍTICO!) | Efecto: Corte
+  Dante HP: 120 -> 81
+
+--- TURNO 2 ---
+Dante (base) + Espada + Veneno + Bendición usa AtaqueEspada sobre Orco
+  Daño: 27 | Efecto: Corte + Veneno
+  Orco HP: 213 -> 186
+Orco (base) usa AtaqueEspada sobre Dante
+  Daño: 26 | Efecto: Corte
+  Dante HP: 81 -> 55
+
+--- TURNO 3 ---
+Dante (base) + Espada + Veneno + Bendición usa AtaqueEspada sobre Orco
+  Daño: 27 | Efecto: Corte + Veneno
+  Orco HP: 186 -> 159
+Orco (base) usa AtaqueEspada sobre Dante
+  Daño: 26 | Efecto: Corte
+  Dante HP: 55 -> 29
+
+--- TURNO 4 ---
+Dante (base) + Espada + Veneno + Bendición usa AtaqueEspada sobre Orco
+  Daño: 27 | Efecto: Corte + Veneno
+  Orco HP: 159 -> 132
+Orco (base) usa AtaqueEspada sobre Dante
+  Daño: 26 | Efecto: Corte
+  Dante HP: 29 -> 3
+
+--- TURNO 5 ---
+Dante (base) + Espada + Veneno + Bendición usa AtaqueEspada sobre Orco
+  Daño: 27 | Efecto: Corte + Veneno
+  Orco HP: 132 -> 105
+Orco (base) usa AtaqueEspada sobre Dante
+  Daño: 26 | Efecto: Corte
+  Dante HP: 26 -> 0
+
+=== COMBATE FINALIZADO ===
+Ganador: Orco (HP restante: 105)
